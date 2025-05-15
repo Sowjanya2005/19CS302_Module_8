@@ -7,3 +7,70 @@ This challenge requires you to print Hello Saveetha! on a single line, and then 
 Saveetha
 
 The required output is: Hello, Saveetha! C Programming
+
+## AIM:
+To write a C program to print the given string.
+## ALGORITHM:
+1. Start.
+2. Define a variables.
+3. Write a program to print the given string.
+4. Read the value using scanf.
+5. Ask the user to make an input.
+6. Print out the answer.
+7. End.
+   
+## PROGRAM:
+```c program
+#include<stdio.h>
+int main()
+{
+char a[20];
+scanf("%[^\n]",a);
+printf("Hello, Saveetha!\n%s",a);
+}
+```
+
+## OUTPUT:
+![Screenshot 2025-05-07 162034](https://github.com/user-attachments/assets/86acc6c3-a3df-4376-b4dc-b21f2b1d922d)
+
+
+## RESULT:
+Thus, the program is executed and verified successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
