@@ -14,6 +14,12 @@ To write a C program to find sum of digits.
 
 ## Program:
 ```
+/*
+C program to find sum of digits.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -35,8 +41,9 @@ int main() {
 ```
 
 ## Output:
-Enter a number: 1234
-Sum of digits= 10
+
+![image](https://github.com/user-attachments/assets/5379dc90-59bc-4083-bd55-859ac2356248)
+
 
 
 ## Result:
