@@ -68,6 +68,11 @@ To determine an array of strings sorted in lexicographical order, print all of i
 
 ## PROGRAM:
 ```
+/*
+C program to find the smallest among three numbers using Structure.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -168,11 +173,9 @@ int main() {
 ```
 
 ## OUTPUT:
-2    ab cd
 
-ab cd
+![image](https://github.com/user-attachments/assets/0624fa55-44b2-4d13-b148-d1d21c73b719)
 
-ab cd
 
 ## RESULT:
 Thus, the program is executed and verified successfully.
