@@ -20,7 +20,12 @@ To write a C program to print the given string.
 7. End.
    
 ## PROGRAM:
-```c program
+```
+/*
+C program to find the smallest among three numbers using Structure.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include<stdio.h>
 int main()
 {
