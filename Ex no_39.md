@@ -1,5 +1,5 @@
 # EX 39 C program to find sum of digits.
-## DATE:
+## DATE: 24/04/2025
 ## AIM:
 To write a C program to find sum of digits.
 
