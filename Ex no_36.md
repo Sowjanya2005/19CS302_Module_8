@@ -7,7 +7,7 @@ This challenge requires you to print Hello Saveetha! on a single line, and then 
 Saveetha
 
 The required output is: Hello, Saveetha! C Programming
-
+## DATE:24/04/2025
 ## AIM:
 To write a C program to print the given string.
 ## ALGORITHM:
