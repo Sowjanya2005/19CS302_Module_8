@@ -46,7 +46,7 @@ When we sum the integers 10 and 4, we get the integer 14. When we subtract the s
 
 When we sum the floating-point numbers 4.0 and 2.0, we get 6.0. When we subtract the second number 2.0 from the first number 4.0, we get 2.0 as their difference.
 
-
+## DATE: 24/04/2025
 ## AIM:
 To write a program to print the sum and difference of the given two integers . 
  
